@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nateshao-boot-demo.iml" filepath="$PROJECT_DIR$/nateshao-boot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-activiti/nateshao-demo-activiti.iml" filepath="$PROJECT_DIR$/nateshao-demo-activiti/nateshao-demo-activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-actuator/nateshao-demo-actuator.iml" filepath="$PROJECT_DIR$/nateshao-demo-actuator/nateshao-demo-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-admin/nateshao-demo-admin.iml" filepath="$PROJECT_DIR$/nateshao-demo-admin/nateshao-demo-admin.iml" />
+    </modules>
+  </component>
+</project>
