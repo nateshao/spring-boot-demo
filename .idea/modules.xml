@@ -26,6 +26,22 @@
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-ldap/nateshao-demo-ldap.iml" filepath="$PROJECT_DIR$/nateshao-demo-ldap/nateshao-demo-ldap.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-log-aop/nateshao-demo-log-aop.iml" filepath="$PROJECT_DIR$/nateshao-demo-log-aop/nateshao-demo-log-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-logback/nateshao-demo-logback.iml" filepath="$PROJECT_DIR$/nateshao-demo-logback/nateshao-demo-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-mongodb/nateshao-demo-mongodb.iml" filepath="$PROJECT_DIR$/nateshao-demo-mongodb/nateshao-demo-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-mq-kafka/nateshao-demo-mq-kafka.iml" filepath="$PROJECT_DIR$/nateshao-demo-mq-kafka/nateshao-demo-mq-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-mq-rabbitmq/nateshao-demo-mq-rabbitmq.iml" filepath="$PROJECT_DIR$/nateshao-demo-mq-rabbitmq/nateshao-demo-mq-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-mq-rocketmq/nateshao-demo-mq-rocketmq.iml" filepath="$PROJECT_DIR$/nateshao-demo-mq-rocketmq/nateshao-demo-mq-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-multi-datasource-jpa/nateshao-demo-multi-datasource-jpa.iml" filepath="$PROJECT_DIR$/nateshao-demo-multi-datasource-jpa/nateshao-demo-multi-datasource-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-multi-datasource-mybatis/nateshao-demo-multi-datasource-mybatis.iml" filepath="$PROJECT_DIR$/nateshao-demo-multi-datasource-mybatis/nateshao-demo-multi-datasource-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-neo4j/nateshao-demo-neo4j.iml" filepath="$PROJECT_DIR$/nateshao-demo-neo4j/nateshao-demo-neo4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-oauth/nateshao-demo-oauth.iml" filepath="$PROJECT_DIR$/nateshao-demo-oauth/nateshao-demo-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-orm-beetlsql/nateshao-demo-orm-beetlsql.iml" filepath="$PROJECT_DIR$/nateshao-demo-orm-beetlsql/nateshao-demo-orm-beetlsql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-orm-jdbctemplate/nateshao-demo-orm-jdbctemplate.iml" filepath="$PROJECT_DIR$/nateshao-demo-orm-jdbctemplate/nateshao-demo-orm-jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-orm-jpa/nateshao-demo-orm-jpa.iml" filepath="$PROJECT_DIR$/nateshao-demo-orm-jpa/nateshao-demo-orm-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-orm-mybatis/nateshao-demo-orm-mybatis.iml" filepath="$PROJECT_DIR$/nateshao-demo-orm-mybatis/nateshao-demo-orm-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-orm-mybatis-mapper-page/nateshao-demo-orm-mybatis-mapper-page.iml" filepath="$PROJECT_DIR$/nateshao-demo-orm-mybatis-mapper-page/nateshao-demo-orm-mybatis-mapper-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-orm-mybatis-plus/nateshao-demo-orm-mybatis-plus.iml" filepath="$PROJECT_DIR$/nateshao-demo-orm-mybatis-plus/nateshao-demo-orm-mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-pay/nateshao-demo-pay.iml" filepath="$PROJECT_DIR$/nateshao-demo-pay/nateshao-demo-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-properties/nateshao-demo-properties.iml" filepath="$PROJECT_DIR$/nateshao-demo-properties/nateshao-demo-properties.iml" />
     </modules>
   </component>
 </project>

@@ -27,6 +27,22 @@
         <module>nateshao-demo-flyway</module>
         <module>nateshao-demo-exception-handler</module>
         <module>nateshao-demo-email</module>
+        <module>nateshao-demo-neo4j</module>
+        <module>nateshao-demo-multi-datasource-mybatis</module>
+        <module>nateshao-demo-multi-datasource-jpa</module>
+        <module>nateshao-demo-mq-rocketmq</module>
+        <module>nateshao-demo-mq-rabbitmq</module>
+        <module>nateshao-demo-mq-kafka</module>
+        <module>nateshao-demo-mongodb</module>
+        <module>nateshao-demo-orm-mybatis-plus</module>
+        <module>nateshao-demo-orm-mybatis-mapper-page</module>
+        <module>nateshao-demo-orm-jpa</module>
+        <module>nateshao-demo-orm-jdbctemplate</module>
+        <module>nateshao-demo-orm-beetlsql</module>
+        <module>nateshao-demo-oauth</module>
+        <module>nateshao-demo-orm-mybatis</module>
+        <module>nateshao-demo-properties</module>
+        <module>nateshao-demo-pay</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

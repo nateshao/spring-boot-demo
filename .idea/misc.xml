@@ -27,6 +27,22 @@
         <option value="$PROJECT_DIR$/nateshao-demo-ldap/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-log-aop/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-mq-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-mq-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-mq-rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-multi-datasource-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-multi-datasource-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-neo4j/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-orm-beetlsql/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-orm-jdbctemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-orm-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-orm-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-orm-mybatis-mapper-page/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-orm-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-properties/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -23,5 +23,21 @@
     <file url="file://$PROJECT_DIR$/nateshao-demo-ldap/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nateshao-demo-log-aop/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nateshao-demo-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-mq-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-mq-rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-mq-rocketmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-multi-datasource-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-multi-datasource-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-neo4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-oauth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-orm-beetlsql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-orm-jdbctemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-orm-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-orm-mybatis-mapper-page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-orm-mybatis-plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-orm-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-properties/src/main/java" charset="UTF-8" />
   </component>
 </project>

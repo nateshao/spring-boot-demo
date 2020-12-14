@@ -6,29 +6,45 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="nateshao-demo-codegen" />
-        <module name="nateshao-demo-https" />
-        <module name="nateshao-demo-cache-redis" />
-        <module name="nateshao-demo-cache-ehcache" />
-        <module name="nateshao-demo-dubbo" />
-        <module name="nateshao-demo-flyway" />
-        <module name="nateshao-demo-helloworld" />
-        <module name="demo-client" />
-        <module name="nateshao-demo-async" />
+        <module name="demo-server" />
+        <module name="nateshao-demo-orm-mybatis-plus" />
         <module name="nateshao-demo-actuator" />
-        <module name="nateshao-demo-dynamic-datasource" />
+        <module name="nateshao-demo-orm-jpa" />
+        <module name="nateshao-demo-dubbo" />
+        <module name="nateshao-demo-https" />
+        <module name="nateshao-demo-orm-beetlsql" />
+        <module name="nateshao-demo-mongodb" />
+        <module name="nateshao-demo-multi-datasource-jpa" />
+        <module name="nateshao-demo-email" />
+        <module name="nateshao-demo-mq-rabbitmq" />
+        <module name="demo-client" />
         <module name="nateshao-demo-ldap" />
-        <module name="nateshao-demo-admin" />
+        <module name="nateshao-demo-pay" />
+        <module name="nateshao-demo-neo4j" />
+        <module name="nateshao-demo-mq-kafka" />
+        <module name="nateshao-demo-elasticsearch" />
+        <module name="nateshao-demo-cache-redis" />
+        <module name="nateshao-demo-elasticsearch-rest-high-level-client" />
+        <module name="nateshao-demo-async" />
+        <module name="nateshao-demo-codegen" />
+        <module name="nateshao-demo-graylog" />
+        <module name="nateshao-demo-oauth" />
+        <module name="nateshao-demo-docker" />
+        <module name="nateshao-demo-helloworld" />
+        <module name="nateshao-demo-exception-handler" />
+        <module name="nateshao-demo-flyway" />
         <module name="nateshao-demo-activiti" />
         <module name="nateshao-demo-logback" />
+        <module name="nateshao-demo-mq-rocketmq" />
+        <module name="nateshao-demo-dynamic-datasource" />
         <module name="nateshao-demo-log-aop" />
-        <module name="nateshao-demo-graylog" />
-        <module name="demo-server" />
-        <module name="nateshao-demo-docker" />
-        <module name="nateshao-demo-exception-handler" />
-        <module name="nateshao-demo-elasticsearch-rest-high-level-client" />
-        <module name="nateshao-demo-elasticsearch" />
-        <module name="nateshao-demo-email" />
+        <module name="nateshao-demo-admin" />
+        <module name="nateshao-demo-properties" />
+        <module name="nateshao-demo-cache-ehcache" />
+        <module name="nateshao-demo-orm-mybatis" />
+        <module name="nateshao-demo-orm-mybatis-mapper-page" />
+        <module name="nateshao-demo-orm-jdbctemplate" />
+        <module name="nateshao-demo-multi-datasource-mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -58,6 +74,22 @@
       <module name="nateshao-demo-ldap" target="1.8" />
       <module name="nateshao-demo-log-aop" target="1.8" />
       <module name="nateshao-demo-logback" target="1.8" />
+      <module name="nateshao-demo-mongodb" target="1.8" />
+      <module name="nateshao-demo-mq-kafka" target="1.8" />
+      <module name="nateshao-demo-mq-rabbitmq" target="1.8" />
+      <module name="nateshao-demo-mq-rocketmq" target="1.8" />
+      <module name="nateshao-demo-multi-datasource-jpa" target="1.8" />
+      <module name="nateshao-demo-multi-datasource-mybatis" target="1.8" />
+      <module name="nateshao-demo-neo4j" target="1.8" />
+      <module name="nateshao-demo-oauth" target="1.8" />
+      <module name="nateshao-demo-orm-beetlsql" target="1.8" />
+      <module name="nateshao-demo-orm-jdbctemplate" target="1.8" />
+      <module name="nateshao-demo-orm-jpa" target="1.8" />
+      <module name="nateshao-demo-orm-mybatis" target="1.8" />
+      <module name="nateshao-demo-orm-mybatis-mapper-page" target="1.8" />
+      <module name="nateshao-demo-orm-mybatis-plus" target="1.8" />
+      <module name="nateshao-demo-pay" target="1.8" />
+      <module name="nateshao-demo-properties" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -88,6 +120,22 @@
       <module name="nateshao-demo-ldap" options="-parameters" />
       <module name="nateshao-demo-log-aop" options="-parameters" />
       <module name="nateshao-demo-logback" options="-parameters" />
+      <module name="nateshao-demo-mongodb" options="-parameters" />
+      <module name="nateshao-demo-mq-kafka" options="-parameters" />
+      <module name="nateshao-demo-mq-rabbitmq" options="-parameters" />
+      <module name="nateshao-demo-mq-rocketmq" options="-parameters" />
+      <module name="nateshao-demo-multi-datasource-jpa" options="-parameters" />
+      <module name="nateshao-demo-multi-datasource-mybatis" options="-parameters" />
+      <module name="nateshao-demo-neo4j" options="-parameters" />
+      <module name="nateshao-demo-oauth" options="-parameters" />
+      <module name="nateshao-demo-orm-beetlsql" options="-parameters" />
+      <module name="nateshao-demo-orm-jdbctemplate" options="-parameters" />
+      <module name="nateshao-demo-orm-jpa" options="-parameters" />
+      <module name="nateshao-demo-orm-mybatis" options="-parameters" />
+      <module name="nateshao-demo-orm-mybatis-mapper-page" options="-parameters" />
+      <module name="nateshao-demo-orm-mybatis-plus" options="-parameters" />
+      <module name="nateshao-demo-pay" options="-parameters" />
+      <module name="nateshao-demo-properties" options="-parameters" />
     </option>
   </component>
 </project>
