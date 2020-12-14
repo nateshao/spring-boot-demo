@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-admin/demo-client/demo-client.iml" filepath="$PROJECT_DIR$/nateshao-demo-admin/demo-client/demo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-admin/demo-server/demo-server.iml" filepath="$PROJECT_DIR$/nateshao-demo-admin/demo-server/demo-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-boot-demo.iml" filepath="$PROJECT_DIR$/nateshao-boot-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-activiti/nateshao-demo-activiti.iml" filepath="$PROJECT_DIR$/nateshao-demo-activiti/nateshao-demo-activiti.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-actuator/nateshao-demo-actuator.iml" filepath="$PROJECT_DIR$/nateshao-demo-actuator/nateshao-demo-actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-admin/nateshao-demo-admin.iml" filepath="$PROJECT_DIR$/nateshao-demo-admin/nateshao-demo-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-async/nateshao-demo-async.iml" filepath="$PROJECT_DIR$/nateshao-demo-async/nateshao-demo-async.iml" />
     </modules>
   </component>
 </project>

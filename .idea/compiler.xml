@@ -6,24 +6,42 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="nateshao-demo-admin" />
-        <module name="nateshao-demo-actuator" />
+        <module name="nateshao-demo-async" />
+        <module name="demo-client" />
+        <module name="demo-server" />
         <module name="nateshao-demo-activiti" />
+        <module name="nateshao-demo-actuator" />
+      </profile>
+      <profile name="Annotation profile for nateshao-boot-demo" enabled="true">
+        <sourceOutputDir name="demo-client/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="demo-client/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nateshao-demo-admin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="admin-client" target="1.8" />
+      <module name="admin-server" target="1.8" />
+      <module name="demo-client" target="1.8" />
+      <module name="demo-server" target="1.8" />
       <module name="nateshao-boot-demo" target="1.8" />
       <module name="nateshao-demo-activiti" target="1.8" />
       <module name="nateshao-demo-actuator" target="1.8" />
       <module name="nateshao-demo-admin" target="1.8" />
+      <module name="nateshao-demo-async" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-client" options="-parameters" />
+      <module name="admin-server" options="-parameters" />
+      <module name="demo-client" options="-parameters" />
+      <module name="demo-server" options="-parameters" />
       <module name="nateshao-boot-demo" options="-parameters" />
       <module name="nateshao-demo-activiti" options="-parameters" />
       <module name="nateshao-demo-actuator" options="-parameters" />
       <module name="nateshao-demo-admin" options="-parameters" />
+      <module name="nateshao-demo-async" options="-parameters" />
     </option>
   </component>
 </project>
