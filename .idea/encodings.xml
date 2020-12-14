@@ -39,5 +39,30 @@
     <file url="file://$PROJECT_DIR$/nateshao-demo-orm-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nateshao-demo-pay/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nateshao-demo-properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-ratelimit-guava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-ratelimit-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-rbac-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-rbac-shiro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-session/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-sharding-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-social/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-swagger-beauty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-task-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-task-xxl-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-template-beetl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-template-enjoy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-template-freemarker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-template-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-tio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-uflo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-ureport2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-urule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-websocket-socketio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-websocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-zookeeper/src/main/java" charset="UTF-8" />
   </component>
 </project>

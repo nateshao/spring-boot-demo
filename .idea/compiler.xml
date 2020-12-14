@@ -6,45 +6,70 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-server" />
-        <module name="nateshao-demo-orm-mybatis-plus" />
-        <module name="nateshao-demo-actuator" />
-        <module name="nateshao-demo-orm-jpa" />
-        <module name="nateshao-demo-dubbo" />
-        <module name="nateshao-demo-https" />
-        <module name="nateshao-demo-orm-beetlsql" />
-        <module name="nateshao-demo-mongodb" />
-        <module name="nateshao-demo-multi-datasource-jpa" />
-        <module name="nateshao-demo-email" />
-        <module name="nateshao-demo-mq-rabbitmq" />
-        <module name="demo-client" />
-        <module name="nateshao-demo-ldap" />
-        <module name="nateshao-demo-pay" />
         <module name="nateshao-demo-neo4j" />
-        <module name="nateshao-demo-mq-kafka" />
-        <module name="nateshao-demo-elasticsearch" />
-        <module name="nateshao-demo-cache-redis" />
-        <module name="nateshao-demo-elasticsearch-rest-high-level-client" />
-        <module name="nateshao-demo-async" />
-        <module name="nateshao-demo-codegen" />
-        <module name="nateshao-demo-graylog" />
-        <module name="nateshao-demo-oauth" />
-        <module name="nateshao-demo-docker" />
-        <module name="nateshao-demo-helloworld" />
-        <module name="nateshao-demo-exception-handler" />
-        <module name="nateshao-demo-flyway" />
-        <module name="nateshao-demo-activiti" />
-        <module name="nateshao-demo-logback" />
-        <module name="nateshao-demo-mq-rocketmq" />
-        <module name="nateshao-demo-dynamic-datasource" />
-        <module name="nateshao-demo-log-aop" />
-        <module name="nateshao-demo-admin" />
+        <module name="nateshao-demo-template-freemarker" />
         <module name="nateshao-demo-properties" />
-        <module name="nateshao-demo-cache-ehcache" />
-        <module name="nateshao-demo-orm-mybatis" />
+        <module name="nateshao-demo-orm-jpa" />
+        <module name="nateshao-demo-mq-rocketmq" />
+        <module name="nateshao-demo-sharding-jdbc" />
+        <module name="nateshao-demo-mq-rabbitmq" />
+        <module name="nateshao-demo-war" />
+        <module name="nateshao-demo-docker" />
+        <module name="nateshao-demo-session" />
         <module name="nateshao-demo-orm-mybatis-mapper-page" />
-        <module name="nateshao-demo-orm-jdbctemplate" />
+        <module name="nateshao-demo-template-beetl" />
+        <module name="nateshao-demo-https" />
+        <module name="nateshao-demo-dynamic-datasource" />
+        <module name="nateshao-demo-social" />
+        <module name="nateshao-demo-email" />
+        <module name="nateshao-demo-tio" />
+        <module name="nateshao-demo-swagger-beauty" />
+        <module name="nateshao-demo-pay" />
+        <module name="nateshao-demo-task-quartz" />
+        <module name="nateshao-demo-upload" />
+        <module name="nateshao-demo-dubbo" />
+        <module name="nateshao-demo-rbac-security" />
+        <module name="nateshao-demo-mq-kafka" />
+        <module name="nateshao-demo-template-enjoy" />
+        <module name="demo-client" />
+        <module name="nateshao-demo-zookeeper" />
+        <module name="nateshao-demo-codegen" />
+        <module name="nateshao-demo-template-thymeleaf" />
+        <module name="nateshao-demo-activiti" />
         <module name="nateshao-demo-multi-datasource-mybatis" />
+        <module name="nateshao-demo-rbac-shiro" />
+        <module name="nateshao-demo-ldap" />
+        <module name="nateshao-demo-task" />
+        <module name="nateshao-demo-admin" />
+        <module name="nateshao-demo-exception-handler" />
+        <module name="nateshao-demo-elasticsearch-rest-high-level-client" />
+        <module name="nateshao-demo-ratelimit-guava" />
+        <module name="nateshao-demo-async" />
+        <module name="nateshao-demo-flyway" />
+        <module name="nateshao-demo-websocket" />
+        <module name="nateshao-demo-urule" />
+        <module name="nateshao-demo-graylog" />
+        <module name="nateshao-demo-logback" />
+        <module name="nateshao-demo-ureport2" />
+        <module name="nateshao-demo-orm-beetlsql" />
+        <module name="nateshao-demo-uflo" />
+        <module name="nateshao-demo-orm-mybatis-plus" />
+        <module name="nateshao-demo-task-xxl-job" />
+        <module name="nateshao-demo-oauth" />
+        <module name="nateshao-demo-orm-jdbctemplate" />
+        <module name="nateshao-demo-orm-mybatis" />
+        <module name="nateshao-demo-websocket-socketio" />
+        <module name="nateshao-demo-elasticsearch" />
+        <module name="nateshao-demo-swagger" />
+        <module name="nateshao-demo-cache-ehcache" />
+        <module name="nateshao-demo-mongodb" />
+        <module name="nateshao-demo-actuator" />
+        <module name="nateshao-demo-helloworld" />
+        <module name="nateshao-demo-multi-datasource-jpa" />
+        <module name="demo-server" />
+        <module name="nateshao-demo-cache-redis" />
+        <module name="nateshao-demo-ratelimit-redis" />
+        <module name="nateshao-demo-log-aop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -90,6 +115,31 @@
       <module name="nateshao-demo-orm-mybatis-plus" target="1.8" />
       <module name="nateshao-demo-pay" target="1.8" />
       <module name="nateshao-demo-properties" target="1.8" />
+      <module name="nateshao-demo-ratelimit-guava" target="1.8" />
+      <module name="nateshao-demo-ratelimit-redis" target="1.8" />
+      <module name="nateshao-demo-rbac-security" target="1.8" />
+      <module name="nateshao-demo-rbac-shiro" target="1.8" />
+      <module name="nateshao-demo-session" target="1.8" />
+      <module name="nateshao-demo-sharding-jdbc" target="1.8" />
+      <module name="nateshao-demo-social" target="1.8" />
+      <module name="nateshao-demo-swagger" target="1.8" />
+      <module name="nateshao-demo-swagger-beauty" target="1.8" />
+      <module name="nateshao-demo-task" target="1.8" />
+      <module name="nateshao-demo-task-quartz" target="1.8" />
+      <module name="nateshao-demo-task-xxl-job" target="1.8" />
+      <module name="nateshao-demo-template-beetl" target="1.8" />
+      <module name="nateshao-demo-template-enjoy" target="1.8" />
+      <module name="nateshao-demo-template-freemarker" target="1.8" />
+      <module name="nateshao-demo-template-thymeleaf" target="1.8" />
+      <module name="nateshao-demo-tio" target="1.8" />
+      <module name="nateshao-demo-uflo" target="1.8" />
+      <module name="nateshao-demo-upload" target="1.8" />
+      <module name="nateshao-demo-ureport2" target="1.8" />
+      <module name="nateshao-demo-urule" target="1.8" />
+      <module name="nateshao-demo-war" target="1.8" />
+      <module name="nateshao-demo-websocket" target="1.8" />
+      <module name="nateshao-demo-websocket-socketio" target="1.8" />
+      <module name="nateshao-demo-zookeeper" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -136,6 +186,31 @@
       <module name="nateshao-demo-orm-mybatis-plus" options="-parameters" />
       <module name="nateshao-demo-pay" options="-parameters" />
       <module name="nateshao-demo-properties" options="-parameters" />
+      <module name="nateshao-demo-ratelimit-guava" options="-parameters" />
+      <module name="nateshao-demo-ratelimit-redis" options="-parameters" />
+      <module name="nateshao-demo-rbac-security" options="-parameters" />
+      <module name="nateshao-demo-rbac-shiro" options="-parameters" />
+      <module name="nateshao-demo-session" options="-parameters" />
+      <module name="nateshao-demo-sharding-jdbc" options="-parameters" />
+      <module name="nateshao-demo-social" options="-parameters" />
+      <module name="nateshao-demo-swagger" options="-parameters" />
+      <module name="nateshao-demo-swagger-beauty" options="-parameters" />
+      <module name="nateshao-demo-task" options="-parameters" />
+      <module name="nateshao-demo-task-quartz" options="-parameters" />
+      <module name="nateshao-demo-task-xxl-job" options="-parameters" />
+      <module name="nateshao-demo-template-beetl" options="-parameters" />
+      <module name="nateshao-demo-template-enjoy" options="-parameters" />
+      <module name="nateshao-demo-template-freemarker" options="-parameters" />
+      <module name="nateshao-demo-template-thymeleaf" options="-parameters" />
+      <module name="nateshao-demo-tio" options="-parameters" />
+      <module name="nateshao-demo-uflo" options="-parameters" />
+      <module name="nateshao-demo-upload" options="-parameters" />
+      <module name="nateshao-demo-ureport2" options="-parameters" />
+      <module name="nateshao-demo-urule" options="-parameters" />
+      <module name="nateshao-demo-war" options="-parameters" />
+      <module name="nateshao-demo-websocket" options="-parameters" />
+      <module name="nateshao-demo-websocket-socketio" options="-parameters" />
+      <module name="nateshao-demo-zookeeper" options="-parameters" />
     </option>
   </component>
 </project>

@@ -42,6 +42,31 @@
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-orm-mybatis-plus/nateshao-demo-orm-mybatis-plus.iml" filepath="$PROJECT_DIR$/nateshao-demo-orm-mybatis-plus/nateshao-demo-orm-mybatis-plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-pay/nateshao-demo-pay.iml" filepath="$PROJECT_DIR$/nateshao-demo-pay/nateshao-demo-pay.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-properties/nateshao-demo-properties.iml" filepath="$PROJECT_DIR$/nateshao-demo-properties/nateshao-demo-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-ratelimit-guava/nateshao-demo-ratelimit-guava.iml" filepath="$PROJECT_DIR$/nateshao-demo-ratelimit-guava/nateshao-demo-ratelimit-guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-ratelimit-redis/nateshao-demo-ratelimit-redis.iml" filepath="$PROJECT_DIR$/nateshao-demo-ratelimit-redis/nateshao-demo-ratelimit-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-rbac-security/nateshao-demo-rbac-security.iml" filepath="$PROJECT_DIR$/nateshao-demo-rbac-security/nateshao-demo-rbac-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-rbac-shiro/nateshao-demo-rbac-shiro.iml" filepath="$PROJECT_DIR$/nateshao-demo-rbac-shiro/nateshao-demo-rbac-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-session/nateshao-demo-session.iml" filepath="$PROJECT_DIR$/nateshao-demo-session/nateshao-demo-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-sharding-jdbc/nateshao-demo-sharding-jdbc.iml" filepath="$PROJECT_DIR$/nateshao-demo-sharding-jdbc/nateshao-demo-sharding-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-social/nateshao-demo-social.iml" filepath="$PROJECT_DIR$/nateshao-demo-social/nateshao-demo-social.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-swagger/nateshao-demo-swagger.iml" filepath="$PROJECT_DIR$/nateshao-demo-swagger/nateshao-demo-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-swagger-beauty/nateshao-demo-swagger-beauty.iml" filepath="$PROJECT_DIR$/nateshao-demo-swagger-beauty/nateshao-demo-swagger-beauty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-task/nateshao-demo-task.iml" filepath="$PROJECT_DIR$/nateshao-demo-task/nateshao-demo-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-task-quartz/nateshao-demo-task-quartz.iml" filepath="$PROJECT_DIR$/nateshao-demo-task-quartz/nateshao-demo-task-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-task-xxl-job/nateshao-demo-task-xxl-job.iml" filepath="$PROJECT_DIR$/nateshao-demo-task-xxl-job/nateshao-demo-task-xxl-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-template-beetl/nateshao-demo-template-beetl.iml" filepath="$PROJECT_DIR$/nateshao-demo-template-beetl/nateshao-demo-template-beetl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-template-enjoy/nateshao-demo-template-enjoy.iml" filepath="$PROJECT_DIR$/nateshao-demo-template-enjoy/nateshao-demo-template-enjoy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-template-freemarker/nateshao-demo-template-freemarker.iml" filepath="$PROJECT_DIR$/nateshao-demo-template-freemarker/nateshao-demo-template-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-template-thymeleaf/nateshao-demo-template-thymeleaf.iml" filepath="$PROJECT_DIR$/nateshao-demo-template-thymeleaf/nateshao-demo-template-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-tio/nateshao-demo-tio.iml" filepath="$PROJECT_DIR$/nateshao-demo-tio/nateshao-demo-tio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-uflo/nateshao-demo-uflo.iml" filepath="$PROJECT_DIR$/nateshao-demo-uflo/nateshao-demo-uflo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-upload/nateshao-demo-upload.iml" filepath="$PROJECT_DIR$/nateshao-demo-upload/nateshao-demo-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-ureport2/nateshao-demo-ureport2.iml" filepath="$PROJECT_DIR$/nateshao-demo-ureport2/nateshao-demo-ureport2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-urule/nateshao-demo-urule.iml" filepath="$PROJECT_DIR$/nateshao-demo-urule/nateshao-demo-urule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-war/nateshao-demo-war.iml" filepath="$PROJECT_DIR$/nateshao-demo-war/nateshao-demo-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-websocket/nateshao-demo-websocket.iml" filepath="$PROJECT_DIR$/nateshao-demo-websocket/nateshao-demo-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-websocket-socketio/nateshao-demo-websocket-socketio.iml" filepath="$PROJECT_DIR$/nateshao-demo-websocket-socketio/nateshao-demo-websocket-socketio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-zookeeper/nateshao-demo-zookeeper.iml" filepath="$PROJECT_DIR$/nateshao-demo-zookeeper/nateshao-demo-zookeeper.iml" />
     </modules>
   </component>
 </project>

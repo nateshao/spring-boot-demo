@@ -43,6 +43,31 @@
         <option value="$PROJECT_DIR$/nateshao-demo-orm-mybatis-plus/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-pay/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-ratelimit-guava/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-ratelimit-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-rbac-security/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-rbac-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-session/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-sharding-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-social/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-swagger-beauty/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-task/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-task-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-task-xxl-job/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-template-beetl/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-template-enjoy/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-template-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-template-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-tio/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-uflo/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-ureport2/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-urule/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-war/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-websocket-socketio/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-zookeeper/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -43,6 +43,31 @@
         <module>nateshao-demo-orm-mybatis</module>
         <module>nateshao-demo-properties</module>
         <module>nateshao-demo-pay</module>
+        <module>nateshao-demo-ratelimit-guava</module>
+        <module>nateshao-demo-ratelimit-redis</module>
+        <module>nateshao-demo-rbac-security</module>
+        <module>nateshao-demo-rbac-shiro</module>
+        <module>nateshao-demo-session</module>
+        <module>nateshao-demo-sharding-jdbc</module>
+        <module>nateshao-demo-social</module>
+        <module>nateshao-demo-swagger</module>
+        <module>nateshao-demo-swagger-beauty</module>
+        <module>nateshao-demo-task</module>
+        <module>nateshao-demo-task-quartz</module>
+        <module>nateshao-demo-task-xxl-job</module>
+        <module>nateshao-demo-template-beetl</module>
+        <module>nateshao-demo-template-enjoy</module>
+        <module>nateshao-demo-template-freemarker</module>
+        <module>nateshao-demo-template-thymeleaf</module>
+        <module>nateshao-demo-tio</module>
+        <module>nateshao-demo-uflo</module>
+        <module>nateshao-demo-upload</module>
+        <module>nateshao-demo-ureport2</module>
+        <module>nateshao-demo-urule</module>
+        <module>nateshao-demo-war</module>
+        <module>nateshao-demo-websocket</module>
+        <module>nateshao-demo-websocket-socketio</module>
+        <module>nateshao-demo-zookeeper</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
