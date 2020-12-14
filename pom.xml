@@ -8,6 +8,16 @@
         <module>nateshao-demo-activiti</module>
         <module>nateshao-demo-actuator</module>
         <module>nateshao-demo-admin</module>
+        <module>nateshao-demo-admin/demo-client</module>
+        <module>nateshao-demo-admin/demo-server</module>
+        <module>nateshao-demo-cache-redis</module>
+        <module>nateshao-demo-cache-ehcache</module>
+        <module>nateshao-demo-docker</module>
+        <module>nateshao-demo-codegen</module>
+        <module>nateshao-demo-elasticsearch</module>
+        <module>nateshao-demo-elasticsearch-rest-high-level-client</module>
+        <module>nateshao-demo-dynamic-datasource</module>
+        <module>nateshao-demo-dubbo</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

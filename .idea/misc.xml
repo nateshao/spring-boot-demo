@@ -10,6 +10,14 @@
         <option value="$PROJECT_DIR$/nateshao-demo-admin/demo-server/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-admin/demo-client/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-cache-ehcache/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-cache-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-codegen/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-dynamic-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-elasticsearch-rest-high-level-client/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

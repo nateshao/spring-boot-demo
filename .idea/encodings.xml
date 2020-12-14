@@ -6,5 +6,13 @@
     <file url="file://$PROJECT_DIR$/nateshao-demo-admin/demo-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nateshao-demo-admin/demo-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nateshao-demo-async/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-cache-ehcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-cache-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-codegen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-docker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-dynamic-datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-elasticsearch-rest-high-level-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-elasticsearch/src/main/java" charset="UTF-8" />
   </component>
 </project>

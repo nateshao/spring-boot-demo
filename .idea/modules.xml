@@ -9,6 +9,14 @@
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-actuator/nateshao-demo-actuator.iml" filepath="$PROJECT_DIR$/nateshao-demo-actuator/nateshao-demo-actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-admin/nateshao-demo-admin.iml" filepath="$PROJECT_DIR$/nateshao-demo-admin/nateshao-demo-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-async/nateshao-demo-async.iml" filepath="$PROJECT_DIR$/nateshao-demo-async/nateshao-demo-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-cache-ehcache/nateshao-demo-cache-ehcache.iml" filepath="$PROJECT_DIR$/nateshao-demo-cache-ehcache/nateshao-demo-cache-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-cache-redis/nateshao-demo-cache-redis.iml" filepath="$PROJECT_DIR$/nateshao-demo-cache-redis/nateshao-demo-cache-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-codegen/nateshao-demo-codegen.iml" filepath="$PROJECT_DIR$/nateshao-demo-codegen/nateshao-demo-codegen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-docker/nateshao-demo-docker.iml" filepath="$PROJECT_DIR$/nateshao-demo-docker/nateshao-demo-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-dubbo/nateshao-demo-dubbo.iml" filepath="$PROJECT_DIR$/nateshao-demo-dubbo/nateshao-demo-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-dynamic-datasource/nateshao-demo-dynamic-datasource.iml" filepath="$PROJECT_DIR$/nateshao-demo-dynamic-datasource/nateshao-demo-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-elasticsearch/nateshao-demo-elasticsearch.iml" filepath="$PROJECT_DIR$/nateshao-demo-elasticsearch/nateshao-demo-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-elasticsearch-rest-high-level-client/nateshao-demo-elasticsearch-rest-high-level-client.iml" filepath="$PROJECT_DIR$/nateshao-demo-elasticsearch-rest-high-level-client/nateshao-demo-elasticsearch-rest-high-level-client.iml" />
     </modules>
   </component>
 </project>
