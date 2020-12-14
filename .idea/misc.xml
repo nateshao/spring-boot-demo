@@ -18,6 +18,15 @@
         <option value="$PROJECT_DIR$/nateshao-demo-dynamic-datasource/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-elasticsearch-rest-high-level-client/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-email/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-exception-handler/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-flyway/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-graylog/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-https/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-ldap/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-log-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-logback/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

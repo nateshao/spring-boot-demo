@@ -7,19 +7,28 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="nateshao-demo-codegen" />
+        <module name="nateshao-demo-https" />
         <module name="nateshao-demo-cache-redis" />
         <module name="nateshao-demo-cache-ehcache" />
         <module name="nateshao-demo-dubbo" />
+        <module name="nateshao-demo-flyway" />
+        <module name="nateshao-demo-helloworld" />
         <module name="demo-client" />
         <module name="nateshao-demo-async" />
         <module name="nateshao-demo-actuator" />
         <module name="nateshao-demo-dynamic-datasource" />
+        <module name="nateshao-demo-ldap" />
         <module name="nateshao-demo-admin" />
         <module name="nateshao-demo-activiti" />
+        <module name="nateshao-demo-logback" />
+        <module name="nateshao-demo-log-aop" />
+        <module name="nateshao-demo-graylog" />
         <module name="demo-server" />
         <module name="nateshao-demo-docker" />
+        <module name="nateshao-demo-exception-handler" />
         <module name="nateshao-demo-elasticsearch-rest-high-level-client" />
         <module name="nateshao-demo-elasticsearch" />
+        <module name="nateshao-demo-email" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -40,6 +49,15 @@
       <module name="nateshao-demo-dynamic-datasource" target="1.8" />
       <module name="nateshao-demo-elasticsearch" target="1.8" />
       <module name="nateshao-demo-elasticsearch-rest-high-level-client" target="1.8" />
+      <module name="nateshao-demo-email" target="1.8" />
+      <module name="nateshao-demo-exception-handler" target="1.8" />
+      <module name="nateshao-demo-flyway" target="1.8" />
+      <module name="nateshao-demo-graylog" target="1.8" />
+      <module name="nateshao-demo-helloworld" target="1.8" />
+      <module name="nateshao-demo-https" target="1.8" />
+      <module name="nateshao-demo-ldap" target="1.8" />
+      <module name="nateshao-demo-log-aop" target="1.8" />
+      <module name="nateshao-demo-logback" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -61,6 +79,15 @@
       <module name="nateshao-demo-dynamic-datasource" options="-parameters" />
       <module name="nateshao-demo-elasticsearch" options="-parameters" />
       <module name="nateshao-demo-elasticsearch-rest-high-level-client" options="-parameters" />
+      <module name="nateshao-demo-email" options="-parameters" />
+      <module name="nateshao-demo-exception-handler" options="-parameters" />
+      <module name="nateshao-demo-flyway" options="-parameters" />
+      <module name="nateshao-demo-graylog" options="-parameters" />
+      <module name="nateshao-demo-helloworld" options="-parameters" />
+      <module name="nateshao-demo-https" options="-parameters" />
+      <module name="nateshao-demo-ldap" options="-parameters" />
+      <module name="nateshao-demo-log-aop" options="-parameters" />
+      <module name="nateshao-demo-logback" options="-parameters" />
     </option>
   </component>
 </project>

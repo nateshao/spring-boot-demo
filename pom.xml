@@ -18,6 +18,15 @@
         <module>nateshao-demo-elasticsearch-rest-high-level-client</module>
         <module>nateshao-demo-dynamic-datasource</module>
         <module>nateshao-demo-dubbo</module>
+        <module>nateshao-demo-logback</module>
+        <module>nateshao-demo-log-aop</module>
+        <module>nateshao-demo-ldap</module>
+        <module>nateshao-demo-https</module>
+        <module>nateshao-demo-helloworld</module>
+        <module>nateshao-demo-graylog</module>
+        <module>nateshao-demo-flyway</module>
+        <module>nateshao-demo-exception-handler</module>
+        <module>nateshao-demo-email</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

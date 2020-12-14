@@ -17,6 +17,15 @@
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-dynamic-datasource/nateshao-demo-dynamic-datasource.iml" filepath="$PROJECT_DIR$/nateshao-demo-dynamic-datasource/nateshao-demo-dynamic-datasource.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-elasticsearch/nateshao-demo-elasticsearch.iml" filepath="$PROJECT_DIR$/nateshao-demo-elasticsearch/nateshao-demo-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-elasticsearch-rest-high-level-client/nateshao-demo-elasticsearch-rest-high-level-client.iml" filepath="$PROJECT_DIR$/nateshao-demo-elasticsearch-rest-high-level-client/nateshao-demo-elasticsearch-rest-high-level-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-email/nateshao-demo-email.iml" filepath="$PROJECT_DIR$/nateshao-demo-email/nateshao-demo-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-exception-handler/nateshao-demo-exception-handler.iml" filepath="$PROJECT_DIR$/nateshao-demo-exception-handler/nateshao-demo-exception-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-flyway/nateshao-demo-flyway.iml" filepath="$PROJECT_DIR$/nateshao-demo-flyway/nateshao-demo-flyway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-graylog/nateshao-demo-graylog.iml" filepath="$PROJECT_DIR$/nateshao-demo-graylog/nateshao-demo-graylog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-helloworld/nateshao-demo-helloworld.iml" filepath="$PROJECT_DIR$/nateshao-demo-helloworld/nateshao-demo-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-https/nateshao-demo-https.iml" filepath="$PROJECT_DIR$/nateshao-demo-https/nateshao-demo-https.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-ldap/nateshao-demo-ldap.iml" filepath="$PROJECT_DIR$/nateshao-demo-ldap/nateshao-demo-ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-log-aop/nateshao-demo-log-aop.iml" filepath="$PROJECT_DIR$/nateshao-demo-log-aop/nateshao-demo-log-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-logback/nateshao-demo-logback.iml" filepath="$PROJECT_DIR$/nateshao-demo-logback/nateshao-demo-logback.iml" />
     </modules>
   </component>
 </project>

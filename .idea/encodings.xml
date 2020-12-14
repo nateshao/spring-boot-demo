@@ -14,5 +14,14 @@
     <file url="file://$PROJECT_DIR$/nateshao-demo-dynamic-datasource/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nateshao-demo-elasticsearch-rest-high-level-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nateshao-demo-elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-exception-handler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-flyway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-graylog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-https/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-ldap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-log-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nateshao-demo-logback/src/main/java" charset="UTF-8" />
   </component>
 </project>
