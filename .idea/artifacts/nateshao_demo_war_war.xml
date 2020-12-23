@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nateshao-demo-war:war">
+    <output-path>$PROJECT_DIR$/nateshao-demo-war/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>nateshao-demo-war</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="nateshao-demo-war-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="nateshao-demo-war:war exploded" />
+    </root>
+  </artifact>
+</component>
