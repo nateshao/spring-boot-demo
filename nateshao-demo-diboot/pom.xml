@@ -36,6 +36,15 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <!-- 打jar包时剔除 -->
+                    <excludes>
+                        <exclude>
+                            <groupId>com.diboot</groupId>
+                            <artifactId>diboot-devtools-spring-boot-starter</artifactId>
+                        </exclude>
+                    </excludes>
+                </configuration>
             </plugin>
         </plugins>
     </build>
