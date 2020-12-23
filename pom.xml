@@ -68,6 +68,7 @@
         <module>nateshao-demo-websocket</module>
         <module>nateshao-demo-websocket-socketio</module>
         <module>nateshao-demo-zookeeper</module>
+        <module>nateshao-demo-diboot</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

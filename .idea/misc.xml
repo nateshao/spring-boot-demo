@@ -68,6 +68,7 @@
         <option value="$PROJECT_DIR$/nateshao-demo-websocket/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-websocket-socketio/pom.xml" />
         <option value="$PROJECT_DIR$/nateshao-demo-zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/nateshao-demo-diboot/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -1,0 +1,13 @@
+package com.nateshao.diboot;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NateshaoDemoDibootApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
