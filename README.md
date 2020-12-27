@@ -31,6 +31,124 @@
 6. **`注意：每个 demo 均有详细的 README 配套，食用 demo 前记得先看看哦~`**
 7. **`注意：运行各个 demo 之前，有些是需要事先初始化数据库数据的，亲们别忘记了哦~`**
 
+## pom.xm文件
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+    <modules>
+        <module>nateshao-demo-async</module>
+        <module>nateshao-demo-activiti</module>
+        <module>nateshao-demo-actuator</module>
+        <module>nateshao-demo-admin</module>
+        <module>nateshao-demo-admin/demo-client</module>
+        <module>nateshao-demo-admin/demo-server</module>
+        <module>nateshao-demo-cache-redis</module>
+        <module>nateshao-demo-cache-ehcache</module>
+        <module>nateshao-demo-docker</module>
+        <module>nateshao-demo-codegen</module>
+        <module>nateshao-demo-elasticsearch</module>
+        <module>nateshao-demo-elasticsearch-rest-high-level-client</module>
+        <module>nateshao-demo-dynamic-datasource</module>
+        <module>nateshao-demo-dubbo</module>
+        <module>nateshao-demo-logback</module>
+        <module>nateshao-demo-log-aop</module>
+        <module>nateshao-demo-ldap</module>
+        <module>nateshao-demo-https</module>
+        <module>nateshao-demo-helloworld</module>
+        <module>nateshao-demo-graylog</module>
+        <module>nateshao-demo-flyway</module>
+        <module>nateshao-demo-exception-handler</module>
+        <module>nateshao-demo-email</module>
+        <module>nateshao-demo-neo4j</module>
+        <module>nateshao-demo-multi-datasource-mybatis</module>
+        <module>nateshao-demo-multi-datasource-jpa</module>
+        <module>nateshao-demo-mq-rocketmq</module>
+        <module>nateshao-demo-mq-rabbitmq</module>
+        <module>nateshao-demo-mq-kafka</module>
+        <module>nateshao-demo-mongodb</module>
+        <module>nateshao-demo-orm-mybatis-plus</module>
+        <module>nateshao-demo-orm-mybatis-mapper-page</module>
+        <module>nateshao-demo-orm-jpa</module>
+        <module>nateshao-demo-orm-jdbctemplate</module>
+        <module>nateshao-demo-orm-beetlsql</module>
+        <module>nateshao-demo-oauth</module>
+        <module>nateshao-demo-orm-mybatis</module>
+        <module>nateshao-demo-properties</module>
+        <module>nateshao-demo-pay</module>
+        <module>nateshao-demo-ratelimit-guava</module>
+        <module>nateshao-demo-ratelimit-redis</module>
+        <module>nateshao-demo-rbac-security</module>
+        <module>nateshao-demo-rbac-shiro</module>
+        <module>nateshao-demo-session</module>
+        <module>nateshao-demo-sharding-jdbc</module>
+        <module>nateshao-demo-social</module>
+        <module>nateshao-demo-swagger</module>
+        <module>nateshao-demo-swagger-beauty</module>
+        <module>nateshao-demo-task</module>
+        <module>nateshao-demo-task-quartz</module>
+        <module>nateshao-demo-task-xxl-job</module>
+        <module>nateshao-demo-template-beetl</module>
+        <module>nateshao-demo-template-enjoy</module>
+        <module>nateshao-demo-template-freemarker</module>
+        <module>nateshao-demo-template-thymeleaf</module>
+        <module>nateshao-demo-tio</module>
+        <module>nateshao-demo-uflo</module>
+        <module>nateshao-demo-upload</module>
+        <module>nateshao-demo-ureport2</module>
+        <module>nateshao-demo-urule</module>
+        <module>nateshao-demo-war</module>
+        <module>nateshao-demo-websocket</module>
+        <module>nateshao-demo-websocket-socketio</module>
+        <module>nateshao-demo-zookeeper</module>
+        <module>nateshao-demo-diboot</module>
+    </modules>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.4.1</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>com.nateshao</groupId>
+    <artifactId>nateshao-boot-demo</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>nateshao-boot-demo</name>
+    <description>Demo project for Spring Boot</description>
+
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
+```
+
+
+
 ## 正在加紧完善中....
 
 
