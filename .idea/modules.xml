@@ -12,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-cache-ehcache/nateshao-demo-cache-ehcache.iml" filepath="$PROJECT_DIR$/nateshao-demo-cache-ehcache/nateshao-demo-cache-ehcache.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-cache-redis/nateshao-demo-cache-redis.iml" filepath="$PROJECT_DIR$/nateshao-demo-cache-redis/nateshao-demo-cache-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-codegen/nateshao-demo-codegen.iml" filepath="$PROJECT_DIR$/nateshao-demo-codegen/nateshao-demo-codegen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nateshao-demo-diboot/nateshao-demo-diboot.iml" filepath="$PROJECT_DIR$/nateshao-demo-diboot/nateshao-demo-diboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-docker/nateshao-demo-docker.iml" filepath="$PROJECT_DIR$/nateshao-demo-docker/nateshao-demo-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-dubbo/nateshao-demo-dubbo.iml" filepath="$PROJECT_DIR$/nateshao-demo-dubbo/nateshao-demo-dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/nateshao-demo-dynamic-datasource/nateshao-demo-dynamic-datasource.iml" filepath="$PROJECT_DIR$/nateshao-demo-dynamic-datasource/nateshao-demo-dynamic-datasource.iml" />

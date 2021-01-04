@@ -54,7 +54,6 @@
         <module name="nateshao-demo-orm-beetlsql" />
         <module name="nateshao-demo-uflo" />
         <module name="nateshao-demo-orm-mybatis-plus" />
-        <module name="nateshao-demo-diboot" />
         <module name="nateshao-demo-task-xxl-job" />
         <module name="nateshao-demo-oauth" />
         <module name="nateshao-demo-orm-jdbctemplate" />
