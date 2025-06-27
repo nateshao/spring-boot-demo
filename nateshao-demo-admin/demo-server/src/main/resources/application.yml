@@ -1,0 +1,12 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: admin-server
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*" 

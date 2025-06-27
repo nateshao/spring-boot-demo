@@ -1,0 +1,5 @@
+server:
+  port: 8085
+logging:
+  level:
+    com.nateshao.async: debug 
