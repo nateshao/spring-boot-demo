@@ -29,6 +29,18 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>com.bstek.uflo</groupId>
+            <artifactId>uflo-core</artifactId>
+            <version>2.1.5</version>
+        </dependency>
+        <dependency>
+            <groupId>com.bstek.uflo</groupId>
+            <artifactId>uflo-console</artifactId>
+            <version>2.1.5</version>
+        </dependency>
+        <!-- 如需数据库支持，请根据实际情况添加数据库驱动依赖 -->
     </dependencies>
 
     <build>
