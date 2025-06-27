@@ -29,6 +29,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.t-io</groupId>
+            <artifactId>tio-core-spring-boot-starter</artifactId>
+            <version>1.2.1</version>
+        </dependency>
     </dependencies>
 
     <build>
