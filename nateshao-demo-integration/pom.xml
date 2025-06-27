@@ -9,33 +9,36 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.nateshao</groupId>
-    <artifactId>nateshao-demo-mq-kafka</artifactId>
+    <artifactId>nateshao-demo-integration</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>nateshao-demo-mq-kafka</name>
-    <description>Spring Boot 集成 Kafka 示例</description>
-
+    <name>nateshao-demo-integration</name>
+    <description>Spring Boot 集成 AOP、Kafka、RabbitMQ 示例</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
-
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-aop</artifactId>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-kafka</artifactId>
         </dependency>
-
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-amqp</artifactId>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
     </dependencies>
-
     <build>
         <plugins>
             <plugin>
@@ -44,5 +47,4 @@
             </plugin>
         </plugins>
     </build>
-
-</project>
+</project> 
