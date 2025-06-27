@@ -1,0 +1,13 @@
+<configuration>
+    <appender name="GELF" class="me.moocar.logbackgelf.GelfAppender">
+        <host>udp:localhost</host>
+        <port>12201</port>
+        <facility>spring-boot-demo</facility>
+        <extractStackTrace>true</extractStackTrace>
+        <filterStackTrace>true</filterStackTrace>
+        <includeFullMdc>true</includeFullMdc>
+    </appender>
+    <root level="INFO">
+        <appender-ref ref="GELF"/>
+    </root>
+</configuration> 
