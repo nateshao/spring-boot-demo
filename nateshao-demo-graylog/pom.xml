@@ -39,6 +39,11 @@
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
         </dependency>
+        <dependency>
+            <groupId>me.moocar</groupId>
+            <artifactId>logback-gelf</artifactId>
+            <version>1.1.16</version>
+        </dependency>
     </dependencies>
 
     <build>
