@@ -1,1 +1,13 @@
- 
+spring:
+  mail:
+    host: smtp.163.com
+    port: 465
+    username: your_email@163.com
+    password: your_email_password
+    properties:
+      mail:
+        smtp:
+          auth: true
+          ssl:
+            enable: true
+    default-encoding: UTF-8 
