@@ -1,0 +1,10 @@
+server:
+  port: 8087
+
+spring:
+  redis:
+    host: localhost
+    port: 6379
+    # password: yourpassword  # 如有密码请取消注释
+  cache:
+    type: redis 
