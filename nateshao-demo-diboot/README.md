@@ -1,3 +1,17 @@
+# nateshao-demo-diboot
+
+Spring Boot 集成 diboot 示例。
+
+## 主要功能
+- 基于 diboot-core 快速实现基础 CRUD
+- 依赖 MySQL 数据库
+
+## 运行与验证
+1. 启动项目（端口 8089）
+2. 访问接口：
+   - `GET /user/list` 查询所有用户
+   - `POST /user/add` 添加用户（body 传 JSON）
+
 ## 快速开始
 
 - 解压playground
