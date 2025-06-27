@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:activiti="http://activiti.org/bpmn"
+             targetNamespace="http://www.activiti.org/test">
+  <process id="leaveProcess" name="请假流程" isExecutable="true">
+    <startEvent id="startEvent1" name="开始"/>
+    <userTask id="userTask1" name="请假申请"/>
+    <endEvent id="endEvent1" name="结束"/>
+    <sequenceFlow id="flow1" sourceRef="startEvent1" targetRef="userTask1"/>
+    <sequenceFlow id="flow2" sourceRef="userTask1" targetRef="endEvent1"/>
+  </process>
+</definitions> 

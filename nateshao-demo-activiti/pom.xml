@@ -34,8 +34,8 @@
         </dependency>
         <dependency>
             <groupId>org.activiti</groupId>
-            <artifactId>activiti-spring-boot-starter-basic</artifactId>
-            <version>7.1.0.M6</version>
+            <artifactId>activiti-spring-boot-starter</artifactId>
+            <version>6.0.0</version>
         </dependency>
     </dependencies>
 
